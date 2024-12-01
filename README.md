@@ -8,9 +8,10 @@
 
 ## 总览
 
+![](profile-3d-contrib/profile-night-green.svg)
+
 ![HelloWRC's Stats](https://github-readme-stats.vercel.app/api?username=HelloWRC&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![HelloWRC's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HelloWRC&theme=vue-dark&hide_border=true)
-![HelloWRC's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HelloWRC&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <details>
   <summary>更多信息…</summary>
