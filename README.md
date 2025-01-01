@@ -37,7 +37,7 @@
 
 - ~~**[HelloWRC/StickyHomeworks ![Stars](https://img.shields.io/github/stars/HelloWRC/StickyHomeworks?label=Stars)](https://github.com/HelloWRC/StickyHomeworks/)**~~
   <br/>
-  一款支持富文本的桌面作业贴工具。
+  一款支持富文本的桌面作业贴工具。如需继续使用，可以使用 Fork **[Sticky-attention/Sticky-attention ![Stars](https://img.shields.io/github/stars/Sticky-attention/Sticky-attention?label=Stars)](https://github.com/Sticky-attention/Sticky-attention/)**
 - ~~**[HelloWRC/W-DesktopCountdown ![Stars](https://img.shields.io/github/stars/HelloWRC/W-DesktopCountdown?label=Stars)](https://github.com/HelloWRC/W-DesktopCountdown/)**~~
 
 </details>
