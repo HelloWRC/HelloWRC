@@ -44,7 +44,7 @@
 
 ## 开发
 
-[![wakatime](https://wakatime.com/badge/user/e8311e69-158c-4e37-9809-ee423f29bc8f.svg)](https://wakatime.com/@e8311e69-158c-4e37-9809-ee423f29bc8f?style=flat-square)
+[![wakatime](https://wakatime.com/badge/user/e8311e69-158c-4e37-9809-ee423f29bc8f.svg?style=flat-square)](https://wakatime.com/@e8311e69-158c-4e37-9809-ee423f29bc8f)
 
 - 我主要使用的编程语言：<br/>
   ![Static Badge](https://img.shields.io/badge/C%23-%23339933?style=flat-square&logo=.NET&logoColor=white)
