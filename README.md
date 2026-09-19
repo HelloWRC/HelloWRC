@@ -60,6 +60,10 @@
   ![Static Badge](https://img.shields.io/badge/ReSharper-%23df2477?style=flat-square&logo=resharper)
   ![Static Badge](https://img.shields.io/badge/WebStorm-%230068fd?style=flat-square&logo=webstorm&logoColor=white)
 
+## 给我买杯咖啡
+
+如果你喜欢我的作品，欢迎[给我买杯咖啡](https://afdian.com/a/HelloWRC)以激励我继续开发！
+
 ## 与我联系
 
 - 电子邮件（ClassIsland）：<wrc@classisland.tech>
