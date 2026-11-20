@@ -2,9 +2,10 @@
 
 ## <img src="https://github.com/user-attachments/assets/a3a43276-c654-4af5-bf48-0a309ca3b75c" width="48" alt="光辉矢愿_遨游"/>  你好！ <img src="image/README/misha2.webp" width="48" height="48" alt="米沙_你好"/>
 
+🔗 **[主页](https://hellowrc.dev) [博客](https://blogs.hellowrc.dev)**
+
 </div>
 
-🔗 **[主页](https://hellowrc.dev) [博客](https://blogs.hellowrc.dev)**
 
 我是 HelloWRC，一个大学在读学生。我平时喜欢写一些有意思的小东西。
 
