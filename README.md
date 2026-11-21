@@ -20,6 +20,7 @@
   <summary>更多信息…</summary>
   
 ![hoyocard](https://hoyocard.qhy04.com/sr/detail/2/337298852.png)
+![osucard](https://osu-sig.s23.moe/card?user=HelloWRC&mode=std&animation=true)
 </details>
 
 ## 项目
